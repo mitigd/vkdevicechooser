@@ -1,1 +1,21 @@
-builddir
+# Visual Studio user-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.dll
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.log
+
+# VS Code
+.vscode/
+.vs/

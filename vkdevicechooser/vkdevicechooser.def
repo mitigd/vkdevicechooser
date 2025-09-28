@@ -1,0 +1,15 @@
+LIBRARY   vkdevicechooser
+EXPORTS
+    DeviceChooserLayer_GetInstanceProcAddr
+    DeviceChooserLayer_GetDeviceProcAddr
+    DeviceChooserLayer_EnumerateInstanceLayerProperties
+    DeviceChooserLayer_EnumerateDeviceLayerProperties
+    DeviceChooserLayer_EnumerateInstanceExtensionProperties
+    DeviceChooserLayer_EnumerateDeviceExtensionProperties
+    DeviceChooserLayer_CreateInstance
+    DeviceChooserLayer_DestroyInstance
+    DeviceChooserLayer_CreateDevice
+    DeviceChooserLayer_DestroyDevice
+    DeviceChooserLayer_EnumeratePhysicalDevices
+    DeviceChooserLayer_EnumeratePhysicalDeviceGroups
+    DeviceChooserLayer_EnumeratePhysicalDeviceGroupsKHR
