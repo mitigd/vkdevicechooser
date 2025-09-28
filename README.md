@@ -1,4 +1,4 @@
-```
+# Windows Fork
 
 Hi, I made this fork for Windows users looking to choose which device Vulkan
 uses for games.
@@ -14,7 +14,7 @@ or another way to set the environment variables.
 
 In the root directory of this project I'll include the bat file and in the release file.
 
-```
+---
 
 # Vulkan Device Chooser Layer
 
