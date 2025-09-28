@@ -1,12 +1,13 @@
 ```
 
-Hi, I made this for fork for Windows users looking to choose which device Vulkan
+Hi, I made this fork for Windows users looking to choose which device Vulkan
 uses for games.
 
 Specifically nGlide only selects my integrated GPU.
 
 I suggest downloading the release file and putting the files in C:\VulkanLayer (that folder will be included)
 and for which architecture you choose x86 or x64, you'll need to add the corresponding reg file in the supplied directory.
+If you decide to change where the folder VulkanLayer goes, you'll need to update the reg files manually.
 
 If you want to actually play a game with the layer, you'll need a .bat file that launches the game with the variable needed
 or another way to set the environment variables.
